@@ -1,4 +1,2 @@
 Reload the config : 
-```shell
-tmux source ~/.tmux.conf
-```
+`tmux source ~/.tmux.conf`
